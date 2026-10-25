@@ -25,7 +25,11 @@ Agent d'analyse financière combinant données structurées (SEC EDGAR / XBRL / 
 
 ## Autres projets
 
+- **[LO21-Harmonies](https://github.com/RomainPlayez/LO21-Harmonies)** — C++/Qt · Adaptation du jeu de société *Harmonies* (Libellud) : mode solo/multijoueur, interface graphique Qt et console, architecture MVC, Design Patterns (Memento, Strategy, Singleton). Projet d'équipe (5 étudiants, cours UTC).
 
+- **[NF92-Site-AutoEcole](https://github.com/RomainPlayez/NF92-Site-AutoEcole)** — PHP/MySQL · Application de gestion d'auto-école : élèves, séances de conduite, thèmes d'apprentissage. (Cours UTC)
+
+- **[SR10-Site-Express](https://github.com/RomainPlayez/SR10-Site-Express)** — Node.js/Express/MySQL · Plateforme de recrutement (espaces candidat/recruteur/administrateur), contrôle d'accès par rôle, tests Jest/Supertest (≥80% couverture). Projet d'équipe (2 étudiants, cours UTC).
 
 ---
 
